@@ -1,5 +1,4 @@
 Einzelabgaben/*/checkpoints/
 !Gruppenabgabe/Besten\ Modelle/
-*.keras
 *.csv
 *.xlsx
